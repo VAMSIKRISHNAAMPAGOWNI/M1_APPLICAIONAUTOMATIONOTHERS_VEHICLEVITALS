@@ -2,29 +2,37 @@
 
 ## WHY
 
-  * Helps customer experience the ‘pulse’ of their fleet on a real time basis.
+  * Helps customer experience the `pulse` of their fleet on a real time basis.
   * Also helps the organization to transform the way it conceives, designs, manufactures and sells the products.
   * Gain Deeper insights through Product and Customer insights. 
  
  
 ## WHAT
   
-  * Add and maintain parking vehicle in parking area.
-  * Add and maintain car and scooter for parking.
-  * Add and maintain cost effective.
+  * Radically transform fleet operations by addressing the needs of all the stakeholders.
+  * Provide unified platform by providing a continuous stream of actionable insights based on analysis of real-time data.
+  * The data collected includes vital vehicle health parameters like.
+    * Engine RPM
+    * Coolant temperature
+    * Fuel System Status
+    * Speed of Vehicle
   
   
 ## WHERE
  
-  * colleges
-  * Theoters
-  * Temples
-  * Offices etc.,
+  * Fleet manager.
+  * Service engineer.
+  * Dealer.
+  * End User.
   
 ## WHEN
   
-  * To secure your vehicle on parking.
+  * Realtime information when vehcile is on Road.
+  * Vehicle service. 
+  * Targeted Martketing.
   
 ## HOW
   
-  * This Web based application automate the Vehicle parking of Car and Scooters
+  * This an IoT driven Telematics solution, helps in vehicle health tracking and notifies the customer in advance.   
+
+
