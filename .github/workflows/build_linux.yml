@@ -1,0 +1,19 @@
+name: linux os build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: setup
+      run: sudo apt-get install make
+    - name: make
+      run: make 3_Implementation/Makefile
