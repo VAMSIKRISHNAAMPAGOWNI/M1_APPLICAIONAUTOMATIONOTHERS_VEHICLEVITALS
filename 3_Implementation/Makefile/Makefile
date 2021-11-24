@@ -1,4 +1,4 @@
-PROJECT_NAME = Employee
+PROJECT_NAME = customer
 TEST_PROJECT_NAME = Test_$(PROJECT_NAME)
 BUILD_DIR = Build
 SRC = src/SearchList.c src/newadd.c src/newatt.c src/Update.c src/display.c src/calculator.c
