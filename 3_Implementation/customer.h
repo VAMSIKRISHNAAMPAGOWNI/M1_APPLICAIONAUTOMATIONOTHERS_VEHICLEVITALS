@@ -9,8 +9,8 @@
  */
 
 
-#ifndef __EMP_H__
-#define __EMP_H__
+#ifndef __CUST_H__
+#define __CUST_H__
 /**
  * @brief emun to check the status
  * 
